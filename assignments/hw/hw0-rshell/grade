@@ -1,1 +1,12 @@
-/ 100
+80 / 100
+
+-5: No test of command with greater than 10 parameters
+-5: No test of running a command in the current directory
+-5: No example of more than one operator in a single command
+-5: No example of connectors directly adjacent to commands
+-5: No example of exit with parameters
+-5: No example of exit as a parameter to something else
+-5: No example of exit in a chain of commands
+-5: No example of comment directly adjacent to a command
++10: Prompts have appropriate information
+
