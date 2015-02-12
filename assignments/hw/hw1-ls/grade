@@ -1,4 +1,10 @@
- 15   / 100  
+15 / 100
+
+-25: -a flag doesn't work
+-10: -l flag doesn't show file names
+-25: -R flag doesn't work
+-25: file/folder parameter doesn't work
+
 
 
 
